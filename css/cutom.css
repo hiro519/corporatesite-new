@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+.top-img{
+    background-image: url(../img/img01.jpg);
+    background-size: cover;
+    
+}
+.top-text{
+    padding: 250px 0px;
+    text-align: center;
+   
+}
+.top-text h1{
+    font-size: 100px;
+    font-family: 'Dancing Script', cursive
+}
+nav h3{
+    font-family: 'Dancing Script', cursive;
+    color: black;
+}
+nav i{
+    color: black;
+}
+.feature-area{
+    background-image: url(../img/img02.jpg);
+    text-align: center;
+    background-size: cover;
+    padding: 250px 0px;
+    background-position: center;
+}
+.feature-area h2{
+    font-size: 100px;
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: 20px;
+}
+.service-list{
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+}
+.service-list h2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+}
+.service-description{
+    padding: 20px;
+}
+.info{
+    border: solid 2px white;
+    margin: 20px;
+    padding: 20px;
+}
+.info p{
+    padding-top: 20px;
+}
