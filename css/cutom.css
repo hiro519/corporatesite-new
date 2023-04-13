@@ -56,3 +56,18 @@ nav i{
 .info p{
     padding-top: 20px;
 }
+footer{
+    background-color: black;
+    padding: 30px;
+}
+footer ul li{
+    list-style :none;
+}
+footer ul li a{
+    text-decoration: none;
+    color: gray;
+    font-size: 10px;
+}
+footer ul li a:hover{
+    color: blue;
+}
